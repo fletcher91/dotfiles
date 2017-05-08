@@ -9,10 +9,10 @@ alias .....="cd ../../../.."
 # alias -- -="cd -"
 
 # Shortcuts
-# alias d="cd ~/Documents/Dropbox"
 # alias dl="cd ~/Downloads"
 # alias dt="cd ~/Desktop"
-# alias p="cd ~/projects"
+alias d="cd $DEV_ROOT"
+alias dev="cd $DEV_HOME"
 # alias g="git"
 # alias h="history"
 # alias j="jobs"

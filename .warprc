@@ -1,0 +1,6 @@
+home:~
+h:~
+pgb:/Applications/Postgres.app/Contents/Versions/9.4/bin
+dev:$DEV_HOME
+go:$GO_PATH
+gob:$GO_PATH/bin
