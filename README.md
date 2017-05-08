@@ -1,6 +1,6 @@
-# Mathias’s dotfiles
+# Fletcher91's dotfiles
 
-![Screenshot of my shell prompt](https://i.imgur.com/EkEtphC.png)
+🚧 Still under construction while I migrate my files from multiple systems
 
 ## Installation
 
@@ -83,19 +83,9 @@ When setting up a new Mac, you may want to install some common [Homebrew](http:/
 
 Some of the functionality of these dotfiles depends on formulae installed by `brew.sh`. If you don’t plan to run `brew.sh`, you should look carefully through the script and manually install any particularly important ones. A good example is Bash/Git completion: the dotfiles use a special version from Homebrew.
 
-## Feedback
-
-Suggestions/improvements
-[welcome](https://github.com/mathiasbynens/dotfiles/issues)!
-
-## Author
-
-| [![twitter/mathias](http://gravatar.com/avatar/24e08a9ea84deb17ae121074d0f17125?s=70)](http://twitter.com/mathias "Follow @mathias on Twitter") |
-|---|
-| [Mathias Bynens](https://mathiasbynens.be/) |
-
 ## Thanks to…
 
+* [mathiasbyens](https://github.com/mathiasbynens/dotfiles) for the base of this setup
 * @ptb and [his _OS X Lion Setup_ repository](https://github.com/ptb/Mac-OS-X-Lion-Setup)
 * [Ben Alman](http://benalman.com/) and his [dotfiles repository](https://github.com/cowboy/dotfiles)
 * [Chris Gerke](http://www.randomsquared.com/) and his [tutorial on creating an OS X SOE master image](http://chris-gerke.blogspot.com/2012/04/mac-osx-soe-master-image-day-7.html) + [_Insta_ repository](https://github.com/cgerke/Insta)
