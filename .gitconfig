@@ -137,6 +137,7 @@
 	# Enable an experimental heuristic that shifts the hunk boundary in an
 	# attempt to make the resulting patch easier to read.
 	indentHeuristic = true
+	submodule = log
 
 [diff "bin"]
 
@@ -161,6 +162,9 @@
 	default = matching
 	# Make `git push` push relevant annotated tags when pushing branches out.
 	followTags = true
+
+[status]
+        submodulesummary = 1
 
 # URL shorthands
 
