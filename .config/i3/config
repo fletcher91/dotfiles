@@ -196,4 +196,6 @@ for_window [title="^Steam Keyboard$"] floating enable
 for_window [class="^com-intellij-updater-Runner$" title="^Update$"] floating enable
 for_window [instance="^sun-awt-X11-XDialogPeer$" title="^Complete Installation$"] floating enable
 
+# Slack
+for_window [class="^Slack$" title="^About Slack$"] floating enable
 
